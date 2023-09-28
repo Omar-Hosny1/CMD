@@ -15,7 +15,7 @@
 **cp -r dirName newWantedCopiedName** : To Copy The Directory.
 **rm -r dirName** : To Remove The Directory.
 **echo 'msg'** : To Print 'msg'.
-**echo 'msg' > fileName**: To Create a file and write in it 'msg' and if the file already exist the content will be overite by the new msg.
+**echo 'msg' > fileName**: To Create a file and write in it 'msg' and if the file already exists the content will be overite by the new msg.
 **echo 'msg' >> fileName** will append the msg to the current content
 **cat fileName** to preview the file content
 **grep** : Global REGEX Print
