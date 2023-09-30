@@ -1,6 +1,6 @@
 # Some Notes From The Course
 
-**Shell**: Command Line Interpreter `مترجم`  
+**Shell**: Command Line Interpreter  
 **Terminal** : The Writing Environment  
 **CMD**: The Original Shell For `Windows` after that the `Power Shell` Had Come 
 **Directory**: is `Folder`  
