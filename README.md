@@ -5,7 +5,6 @@
 **CMD**: The Original Shell For `Windows` after that the `Power Shell` Had Come 
 **Directory**: is `Folder`  
 
-
 # Some Commands From The Course
 
 - **cd /**: Go To The First Directory
